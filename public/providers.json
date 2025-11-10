@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Alex Martin",
+    "category": "Photography",
+    "expertise": "Professional Photographer",
+    "bio": "Capturing moments with creative angles and cinematic storytelling.",
+    "image": "https://media.istockphoto.com/id/1309328823/photo/headshot-portrait-of-smiling-male-employee-in-office.jpg?s=612x612&w=0&k=20&c=kPvoBm6qCYzQXMAn9JUtqLREXe9-PlZyMl9i-ibaVuY="
+  },
+  {
+    "name": "Sana Rahman",
+    "category": "Language",
+    "expertise": "Spoken English Coach",
+    "bio": "Helping learners speak confidently with fluent communication skills.",
+    "image": "https://t3.ftcdn.net/jpg/13/69/63/06/360_F_1369630662_VxVwBgRCOtZ16aArey8btsGSsy5mPyiL.jpg"
+  },
+  {
+    "name": "Rahul Dev",
+    "category": "Technology",
+    "expertise": "Frontend Developer (React)",
+    "bio": "Guiding students to build modern and professional React websites.",
+    "image": "https://wallpapers.com/images/hd/professional-profile-pictures-1080-x-1080-460wjhrkbwdcp1ig.jpg"
+  },
+  {
+    "name": "Mayan Choudhury",
+    "category": "Art/Craft",
+    "expertise": "Creative Art Instructor",
+    "bio": "Turning imagination into beautiful art through simple techniques.",
+    "image": "https://t4.ftcdn.net/jpg/02/14/74/61/360_F_214746128_31JkeaP6rU0NzzzdFC4khGkmqc8noe6h.jpg"
+  },
+  {
+    "name": "Irfan Hossain",
+    "category": "Fitness",
+    "expertise": "Yoga & Meditation Trainer",
+    "bio": "Helping people achieve balance, flexibility, and mental peace.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4UlS1Ehv87B7_HRdQWlKz8Jw13A0zxuiuQ&s"
+  },
+  {
+    "name": "Nadia Karim",
+    "category": "Music",
+    "expertise": "Guitar & Vocal Instructor",
+    "bio": "Teaching soulful music with techniques for beginners and performers.",
+    "image": "https://media.istockphoto.com/id/1338134319/photo/portrait-of-young-indian-businesswoman-or-school-teacher-pose-indoors.jpg?s=612x612&w=0&k=20&c=Dw1nKFtnU_Bfm2I3OPQxBmSKe9NtSzux6bHqa9lVZ7A="
+  }
+]
